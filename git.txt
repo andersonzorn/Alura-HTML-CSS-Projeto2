@@ -1,8 +1,8 @@
 echo "# Alura - HTML e CSS - Projeto 2" >> README.md
 git init
 
-  git config --global user.email "andersonmeizorn@gmail.com"
-  git config --global user.name "Zorn"
+  git config --global user.email "xxx@gmail.com"
+  git config --global user.name "xxx"
   
 git add README.md
 git commit -m "commit 1"
