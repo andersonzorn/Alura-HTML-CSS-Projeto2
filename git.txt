@@ -11,6 +11,6 @@ git remote add origin https://github.com/andersonzorn/Alura-HTML-CSS-Projeto2.gi
 git push -u origin main
 
 git add .
-git commit -m "commit 3"
+git commit -m "Projeto Alura"
 git push -u origin main
 
